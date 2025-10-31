@@ -1,0 +1,1404 @@
+fileFormatVersion: 2
+guid: e967362592ea17e4c8fdaafd5139e4a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8697903352396951012
+    second: duende (1)_0
+  - first:
+      213: 4604082182790437329
+    second: duende (1)_1
+  - first:
+      213: 7751450051721704845
+    second: duende (1)_2
+  - first:
+      213: -6453512468653691664
+    second: duende (1)_3
+  - first:
+      213: -491357850307834099
+    second: duende (1)_4
+  - first:
+      213: 7576693596117408829
+    second: duende (1)_5
+  - first:
+      213: -7898656037121050543
+    second: duende (1)_6
+  - first:
+      213: 3509756102290444674
+    second: duende (1)_7
+  - first:
+      213: -2374530039766337840
+    second: duende (1)_8
+  - first:
+      213: 5790432193335908298
+    second: duende (1)_9
+  - first:
+      213: -5846890100165648352
+    second: duende (1)_10
+  - first:
+      213: 2790612870142601789
+    second: duende (1)_11
+  - first:
+      213: -8977599104313533131
+    second: duende (1)_12
+  - first:
+      213: 5901318635825140856
+    second: duende (1)_13
+  - first:
+      213: 8113354066023109276
+    second: duende (1)_14
+  - first:
+      213: 1231809370884617505
+    second: duende (1)_15
+  - first:
+      213: -4475585012483148957
+    second: duende (1)_16
+  - first:
+      213: 305295348300155953
+    second: duende (1)_17
+  - first:
+      213: 7373755059937719801
+    second: duende (1)_18
+  - first:
+      213: 8983736089498479424
+    second: duende (1)_19
+  - first:
+      213: 378571892849560713
+    second: duende (1)_20
+  - first:
+      213: -7783726256076072600
+    second: duende (1)_21
+  - first:
+      213: -2338059013678374720
+    second: duende (1)_22
+  - first:
+      213: 7889125552242863663
+    second: duende (1)_23
+  - first:
+      213: -7385560146100608886
+    second: duende (1)_24
+  - first:
+      213: 3907356142545285798
+    second: duende (1)_25
+  - first:
+      213: 609867293401401879
+    second: duende (1)_26
+  - first:
+      213: 7679568919679451623
+    second: duende (1)_27
+  - first:
+      213: -6980070878799520889
+    second: duende (1)_28
+  - first:
+      213: 2182688556194850778
+    second: duende (1)_29
+  - first:
+      213: 4092811449109910868
+    second: duende (1)_30
+  - first:
+      213: -4529880974372789656
+    second: duende (1)_31
+  - first:
+      213: -7123687665754650344
+    second: duende (1)_32
+  - first:
+      213: 5627704166671896997
+    second: duende (1)_33
+  - first:
+      213: -96299373340761043
+    second: duende (1)_34
+  - first:
+      213: 3968919410233624734
+    second: duende (1)_35
+  - first:
+      213: -8288623105502244573
+    second: duende (1)_36
+  - first:
+      213: 5445409612527348841
+    second: duende (1)_37
+  - first:
+      213: 3755220828955807974
+    second: duende (1)_38
+  - first:
+      213: -6448418489887561826
+    second: duende (1)_39
+  - first:
+      213: -6342195674570348051
+    second: duende (1)_40
+  - first:
+      213: 356540116840495850
+    second: duende (1)_41
+  - first:
+      213: 73968995646118768
+    second: duende (1)_42
+  - first:
+      213: -7361179774119932229
+    second: duende (1)_43
+  - first:
+      213: 9163725874317511427
+    second: duende (1)_44
+  - first:
+      213: -2309149025990399801
+    second: duende (1)_45
+  - first:
+      213: 4418450360812439125
+    second: duende (1)_46
+  - first:
+      213: -7550566505188116715
+    second: duende (1)_47
+  - first:
+      213: 7301393407064428738
+    second: duende (1)_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: duende (1)_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 901
+        width: 59
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1253b50cf6da4780800000000000000
+      internalID: -8697903352396951012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 901
+        width: 59
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9dded0a5cf4ef30800000000000000
+      internalID: 4604082182790437329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_2
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 901
+        width: 59
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d853e0bc0cea29b60800000000000000
+      internalID: 7751450051721704845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_3
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 901
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fca7581a948076a0800000000000000
+      internalID: -6453512468653691664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_4
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 901
+        width: 61
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f4dc273a85e29f0800000000000000
+      internalID: -491357850307834099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 811
+        width: 46
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c1e80cea2d52960800000000000000
+      internalID: 7576693596117408829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 811
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158b760ee26526290800000000000000
+      internalID: -7898656037121050543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_7
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 811
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281184d549825b030800000000000000
+      internalID: 3509756102290444674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_8
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 811
+        width: 46
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6bb377289fb0fd0800000000000000
+      internalID: -2374530039766337840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_9
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 811
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7d5cb966fbb5050800000000000000
+      internalID: 5790432193335908298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_10
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 811
+        width: 46
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020e0ea9e6cabdea0800000000000000
+      internalID: -5846890100165648352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 715
+        width: 57
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3aab7ebe9f3ab620800000000000000
+      internalID: 2790612870142601789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_12
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 716
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53dd6831e29296380800000000000000
+      internalID: -8977599104313533131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_13
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 716
+        width: 55
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87410c26802b5e150800000000000000
+      internalID: 5901318635825140856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 715
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c925742698c689070800000000000000
+      internalID: 8113354066023109276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_15
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 715
+        width: 55
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125339ea814481110800000000000000
+      internalID: 1231809370884617505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_16
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 715
+        width: 56
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36331e0d42783e1c0800000000000000
+      internalID: -4475585012483148957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_17
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 629
+        width: 112
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c82037080ac3400800000000000000
+      internalID: 305295348300155953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_18
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 629
+        width: 91
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5b350c827d45660800000000000000
+      internalID: 7373755059937719801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_19
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 629
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04be9622064acac70800000000000000
+      internalID: 8983736089498479424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_20
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 629
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cce3b7125f04500800000000000000
+      internalID: 378571892849560713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_21
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 541
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86954b5c536aaf390800000000000000
+      internalID: -7783726256076072600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_22
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 541
+        width: 70
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0ecc1f6bb8d8fd0800000000000000
+      internalID: -2338059013678374720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_23
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 541
+        width: 77
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ea4e134edcb7d60800000000000000
+      internalID: 7889125552242863663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_24
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 541
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8024607d28318990800000000000000
+      internalID: -7385560146100608886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_25
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 541
+        width: 82
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a23a57a5b7b93630800000000000000
+      internalID: 3907356142545285798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_26
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 408
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ac157721fa67800800000000000000
+      internalID: 609867293401401879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_27
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 408
+        width: 84
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1cf9d8e3f439a60800000000000000
+      internalID: 7679568919679451623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_28
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 408
+        width: 88
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b1b1a848ec12f90800000000000000
+      internalID: -6980070878799520889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_29
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 408
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7ed4f6da77a4e10800000000000000
+      internalID: 2182688556194850778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_30
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 408
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45519dc04569cc830800000000000000
+      internalID: 4092811449109910868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_31
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 318
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862a5bf0141a221c0800000000000000
+      internalID: -4529880974372789656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_32
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 318
+        width: 53
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819ccd79fc3932d90800000000000000
+      internalID: -7123687665754650344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_33
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 318
+        width: 65
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1d67b6f1f991e40800000000000000
+      internalID: 5627704166671896997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_34
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 318
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d246eebea30e9aef0800000000000000
+      internalID: -96299373340761043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_35
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 232
+        width: 76
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98c025ec2f641730800000000000000
+      internalID: 3968919410233624734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_36
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 238
+        width: 71
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32191775335e8fc80800000000000000
+      internalID: -8288623105502244573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_37
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 233
+        width: 71
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ca03b013bf19b40800000000000000
+      internalID: 5445409612527348841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 222
+        width: 61
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e01f0ba2793d1430800000000000000
+      internalID: 3755220828955807974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_39
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 222
+        width: 63
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97e0337c8d9286a0800000000000000
+      internalID: -6448418489887561826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_40
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 222
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de92739e2aefbf7a0800000000000000
+      internalID: -6342195674570348051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_41
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 223
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea3474e85fa2f400800000000000000
+      internalID: 356540116840495850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_42
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 223
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b11edd86ac60100800000000000000
+      internalID: 73968995646118768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_43
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 135
+        width: 69
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe8ac32ff5d7d990800000000000000
+      internalID: -7361179774119932229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_44
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 136
+        width: 71
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b40c591281c2f70800000000000000
+      internalID: 9163725874317511427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_45
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 49
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8276cf13144ffd0800000000000000
+      internalID: -2309149025990399801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_46
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 48
+        width: 44
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5560ce5713d715d30800000000000000
+      internalID: 4418450360812439125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_47
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 48
+        width: 65
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517bc45a4cff63790800000000000000
+      internalID: -7550566505188116715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duende (1)_48
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 49
+        width: 83
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c054798e92c35560800000000000000
+      internalID: 7301393407064428738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      duende (1)_0: -8697903352396951012
+      duende (1)_1: 4604082182790437329
+      duende (1)_10: -5846890100165648352
+      duende (1)_11: 2790612870142601789
+      duende (1)_12: -8977599104313533131
+      duende (1)_13: 5901318635825140856
+      duende (1)_14: 8113354066023109276
+      duende (1)_15: 1231809370884617505
+      duende (1)_16: -4475585012483148957
+      duende (1)_17: 305295348300155953
+      duende (1)_18: 7373755059937719801
+      duende (1)_19: 8983736089498479424
+      duende (1)_2: 7751450051721704845
+      duende (1)_20: 378571892849560713
+      duende (1)_21: -7783726256076072600
+      duende (1)_22: -2338059013678374720
+      duende (1)_23: 7889125552242863663
+      duende (1)_24: -7385560146100608886
+      duende (1)_25: 3907356142545285798
+      duende (1)_26: 609867293401401879
+      duende (1)_27: 7679568919679451623
+      duende (1)_28: -6980070878799520889
+      duende (1)_29: 2182688556194850778
+      duende (1)_3: -6453512468653691664
+      duende (1)_30: 4092811449109910868
+      duende (1)_31: -4529880974372789656
+      duende (1)_32: -7123687665754650344
+      duende (1)_33: 5627704166671896997
+      duende (1)_34: -96299373340761043
+      duende (1)_35: 3968919410233624734
+      duende (1)_36: -8288623105502244573
+      duende (1)_37: 5445409612527348841
+      duende (1)_38: 3755220828955807974
+      duende (1)_39: -6448418489887561826
+      duende (1)_4: -491357850307834099
+      duende (1)_40: -6342195674570348051
+      duende (1)_41: 356540116840495850
+      duende (1)_42: 73968995646118768
+      duende (1)_43: -7361179774119932229
+      duende (1)_44: 9163725874317511427
+      duende (1)_45: -2309149025990399801
+      duende (1)_46: 4418450360812439125
+      duende (1)_47: -7550566505188116715
+      duende (1)_48: 7301393407064428738
+      duende (1)_5: 7576693596117408829
+      duende (1)_6: -7898656037121050543
+      duende (1)_7: 3509756102290444674
+      duende (1)_8: -2374530039766337840
+      duende (1)_9: 5790432193335908298
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
